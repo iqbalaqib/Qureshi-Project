@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694555290996",
+    "project_id": "healthapp-3e4de",
+    "storage_bucket": "healthapp-3e4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694555290996:android:42c81ad89278556c745021",
+        "android_client_info": {
+          "package_name": "com.squeuetech.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694555290996-3pgu3k8jpvm690fi414ntakr3o3qsjpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccC0eLTjJOzot-yInXdxbyVYgOAXZsxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694555290996-3pgu3k8jpvm690fi414ntakr3o3qsjpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
